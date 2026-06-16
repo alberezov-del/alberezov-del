@@ -22,39 +22,32 @@ routes tickets, stores feedback, and exposes API/UI metrics.
 
 **Stack:** Python, machine learning, RAG, API, SQLite, Docker.
 
-## Coursework
+## Netology / NeuroStartUp
 
-### [Netology OOP Classes](https://github.com/alberezov-del/netology-oop-classes)
+Learning projects are grouped here so they stay separate from portfolio work.
 
-Python OOP homework covering inheritance, encapsulation, polymorphism,
-grading logic, comparison methods, and unit tests.
-
-### [Alex GitHub Pages](https://github.com/alberezov-del/alex-github-pages)
-
-Personal GitHub Pages and Markdown practice project.
-
-## Git And GitHub Practice
-
-- [NeuroStartUp](https://github.com/alberezov-del/NeuroStartUp)
-- [NeuroStartUp Task 3](https://github.com/alberezov-del/NeuroStartUp-task3)
-- [Git homework: import](https://github.com/alberezov-del/git-2-homeworks-import)
-- [Git homework: revert](https://github.com/alberezov-del/git-2-homeworks-revert-result)
-- [Git homework fork](https://github.com/alberezov-del/git-2-homeworks-fork)
-- [Git homework pull request fork](https://github.com/alberezov-del/git-2-homeworks-pr)
+| Project | Folder | Notes |
+|---|---|---|
+| [Netology OOP Classes](https://github.com/alberezov-del/netology-oop-classes) | `netology/` | Python OOP, inheritance, grading logic, tests |
+| [Alex GitHub Pages](https://github.com/alberezov-del/alex-github-pages) | `netology/` | GitHub Pages and Markdown practice |
+| [NeuroStartUp](https://github.com/alberezov-del/NeuroStartUp) | `neurostartup/` | Netology Git practice README |
+| [NeuroStartUp Task 3](https://github.com/alberezov-del/NeuroStartUp-task3) | `neurostartup/` | Netology Git/GitHub task |
+| [Git homework: import](https://github.com/alberezov-del/git-2-homeworks-import) | `netology/git/` | Repository import practice |
+| [Git homework: revert](https://github.com/alberezov-del/git-2-homeworks-revert-result) | `netology/git/` | Revert workflow practice |
+| [Git homework fork](https://github.com/alberezov-del/git-2-homeworks-fork) | `netology/git/forks/` | Collaboration fork |
+| [Git homework pull request fork](https://github.com/alberezov-del/git-2-homeworks-pr) | `netology/git/forks/` | Pull request fork |
 
 ## Repository Map
 
 | Group | Repositories |
 |---|---|
 | AI / portfolio | `llm-eval-ci`, `support-ai-copilot` |
-| Python coursework | `netology-oop-classes` |
-| GitHub Pages / Markdown | `alex-github-pages`, `NeuroStartUp` |
-| Git practice | `git-2-homeworks-*`, `NeuroStartUp-task3` |
-| Forks | `git-2-homeworks-fork`, `git-2-homeworks-pr` |
+| Learning archive | `netology-*`, `git-2-homeworks-*`, `NeuroStartUp*`, `alex-github-pages` |
+| Netology folder | `netology-oop-classes`, `alex-github-pages`, `git-2-homeworks-*` |
+| NeuroStartUp folder | `NeuroStartUp`, `NeuroStartUp-task3` |
 
 ## Current Focus
 
 - Building portfolio-ready Python projects.
 - Learning practical AI application architecture.
 - Improving evaluation, testing, and GitHub presentation.
-
